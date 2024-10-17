@@ -1,8 +1,8 @@
 <div align="center">
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0554D6&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1+sou+Dalio+Shindi+Yamada;Sou+um+Desenvolvedor+Full+Stack)](https://git.io/typing-svg)
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1+sou+Cesar+Henrique;Sou+um+Desenvolvedor+Web)](https://git.io/typing-svg)
+
 
 <div align="center">
 
