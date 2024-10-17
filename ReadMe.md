@@ -25,7 +25,7 @@ Profissional proativo e organizado com experiência em projetos pessoais na áre
 
 ### Front End:
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,php,node.js,bootstrap,mysql,workbench"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,react,php,node.js,bootstrap,mysql,workbench"/>
 
 Native
 
