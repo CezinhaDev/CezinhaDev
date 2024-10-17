@@ -24,27 +24,23 @@ Profissional proativo e organizado com experiência em projetos pessoais na áre
 # Profissional com experiência em:
 
 ### Front End:
-
+<div align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,react,php,node.js"/>
-
+</div>
 Native
 
 
 ### Ferramentas e plataformas:
-
+<div align="center">
 <img src="https://skillicons.dev/icons?i=windows,vscode,github,vercel,notion,obsidian"/>
 </div>
 
-<div align="center">
 
-# Certificado:
-
-<div align="center" >
 
 # Entre em contato:
 
 <a href="mailto:cesarhenriquee04@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="24px" alt="Gmail"></a>
-<a href="linkedin.com/in/césar-henrique"><img src="https://skillicons.dev/icons?i=linkedin" height="24px" alt="LinkedIn"></a>
+<a href="www.linkedin.com/in/césar-henrique"><img src="https://skillicons.dev/icons?i=linkedin" height="24px" alt="LinkedIn"></a>
 
 
 
