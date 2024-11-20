@@ -12,7 +12,7 @@
 
 Olá, sou **Cesar henrique**, tenho 20 anos, sou um **Desenvolvedor web**.
 
-Profissional proativo e organizado com experiência em projetos pessoais na área de desenvolvimento web e mobile, utilizando tecnologias como HTML, CSS, JavaScript, Node.js, React.js, React Native, Em busca de oportunidades que me permitam aplicar minhas habilidades e conhecimentos em um ambiente profissional e contribuir para o crescimento da empresa.
+Profissional proativo e organizado com experiência em projetos pessoais na área de desenvolvimento web e mobile, utilizando tecnologias como HTML, CSS, JavaScript, React.js, React Native, Em busca de oportunidades que me permitam aplicar minhas habilidades e conhecimentos em um ambiente profissional e contribuir para o crescimento da empresa.
 
 > Estou sempre buscando conhecimento para melhorar minhas habilidades técnicas e soft skills
 
