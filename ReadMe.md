@@ -32,7 +32,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cesarhenrique_dev/) 
 [![Gmail](https://img.shields.io/badge/-cesarhenriquee04@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:cesarhenriquee04@gmail.com)](mailto:cesarhenriquee04@gmail.com)
 
-![Snake animation](https://github.com/CezinhaDev/CezinhaDev/blob/output/github-contribution-grid-snake.svg)
 
   
 <!--
