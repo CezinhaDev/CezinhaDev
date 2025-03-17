@@ -1,5 +1,5 @@
 ### ✨ Olá, eu sou o Cesar Henrique! ✨
-- Desenvolvedor Web em formação e estudante de **Engenharia de Software**.
+- Desenvolvedor Web em formação e estudante de **Analise e Desenvolvimento de Sistemas**.
 - Apaixonado por **desenvolvimento front-end**, **tecnologias web** e **aplicações móveis**.
 - Em busca de novas oportunidades de desenvolvimento e aprendizado contínuo.
   
