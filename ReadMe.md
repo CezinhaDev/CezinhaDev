@@ -33,6 +33,7 @@
 [![Gmail](https://img.shields.io/badge/-cesarhenriquee04@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:cesarhenriquee04@gmail.com)](mailto:cesarhenriquee04@gmail.com)
 
 ![Snake animation](https://github.com/CezinhaDev/CezinhaDev/blob/output/github-contribution-grid-snake.svg)
+
   
 <!--
 **CezinhaDev/CezinhaDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
