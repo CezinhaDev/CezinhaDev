@@ -14,6 +14,8 @@ Confira meu portfólio: cesarhenrique.netlify.app
 <div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CezinhaDev&show_icons=true&theme=radical&include_all_commits=true&count_private=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CezinhaDev&layout=compact&langs_count=7&theme=radical"/> </div>
 📫 Entre em contato
 
+<div style="display: flex; gap: 10px; flex-wrap: wrap;"> <a href="https://www.linkedin.com/in/césar-henrique/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="https://www.instagram.com/cesarhenrique_dev/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /> </a> <a href="mailto:cesarhenriquee04@gmail.com"> <img src="https://img.shields.io/badge/-cesarhenriquee04@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /> </a> </div>
+
 
 
 
