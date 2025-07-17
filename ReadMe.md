@@ -21,4 +21,4 @@ public class HelloWorld {
 📫 **Contato:**  
 ✉️ [cesarhenriquee04@gmail.com](mailto:cesarhenriquee04@gmail.com)  
 🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cesarhenrique)  
-🔗 [![Cario](https://img.shields.io/badge/Cario-FF6F61?style=for-the-badge&logo=google-chrome&logoColor=white)](https://cario.com/usuario)  
+
