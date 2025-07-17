@@ -6,12 +6,15 @@ Tenho paixão por criar interfaces atrativas, aplicações móveis e soluções 
 🔍 Em busca de oportunidades para crescer profissionalmente e contribuir com projetos desafiadores.
 🎯 Portfólio: cesarhenrique.netlify.app
 
+🧠 Um pouco de código...
+java
+Copiar
+Editar
 public class HelloWorld {
     public static void main(String[] args) {
         System.out.println("Hello, World! 🚀");
     }
 }
-
 
 
  Tecnologias e Ferramentas que uso
